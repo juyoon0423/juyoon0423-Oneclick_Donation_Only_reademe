@@ -109,27 +109,26 @@
 
 ### 📝 프로젝트 설계 및 기획
 
-<details>
-<summary><strong>ERD</strong></summary>
+
+<strong>ERD</strong>
 
 ![ERD](https://github.com/likelion-backend8th-5team/Oneclick_Donation/blob/main/OneclickDonation/assets/ERD.png)
 
 
-</details>
 <br>
 
-<details>
-<summary><strong>이벤트 스토밍</strong></summary>
+
+<strong>이벤트 스토밍</strong>
 
 ![event](https://github.com/likelion-backend8th-5team/Oneclick_Donation/blob/main/OneclickDonation/assets/event.png)
 
-</details>
+
 
 <br>
 
-<details>
-<summary><strong>구조도</strong></summary>
+
+<strong>구조도</strong>
 
 ![event](https://github.com/likelion-backend8th-5team/Oneclick_Donation/blob/main/OneclickDonation/assets/gujodo.png)
 
-</details>
+
